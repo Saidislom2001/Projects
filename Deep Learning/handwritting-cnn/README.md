@@ -21,7 +21,7 @@ handwriting-cnn/
 ## Setup (WSL)
 
 ```bash
-cd ~/projects/handwriting-cnn        # or wherever you cloned/created this
+cd ~/Deep Learning/handwriting-cnn        
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -38,7 +38,7 @@ A simple CNN: stacked Conv2D + MaxPooling blocks, followed by Dense layers with 
 
 _Fill in after training:_
 
-- Test accuracy: `TBD`
+- Test accuracy: `98.75%`
 - Training time: `TBD`
 
 ## Author
